@@ -3,3 +3,30 @@ body {
   margin: 0;
   font-family:  Poppins;
 }
+
+.headerContainer{
+  background: #D9D8DA;
+}
+.dashboard{
+  background: #494849;
+}
+.datePicker{
+  background-color: #D9D8DA;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.datePicker-lable{
+  background-color: #D9D8DA;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.resultContainer{
+  display: flex;
+  place-content: center;
+  padding: 10px;
+}
+.counter{
+  margin: 15px;
+}
